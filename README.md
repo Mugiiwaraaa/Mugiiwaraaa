@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fahad @Mugiiwaraaa                                         ![](https://komarev.com/ghpvc/?username=Mugiiwaraaa&color=blueviolet)
+- 👋 Hi, I’m Fahad @Mugiiwaraaa                                                                    ![](https://komarev.com/ghpvc/?username=Mugiiwaraaa&color=blueviolet)
 - 👀 I’m passionate about Data Science and Machine Learning
 - 🌱 I’m currently learning more about Data Science and its intersection with various domains 
 - 📫 How to reach me - Reach me at my email- ahmed.fahad318@gmail.com or on my Portfolio website - https://mugiiwaraaa.github.io/Fahad_Portfolio/
